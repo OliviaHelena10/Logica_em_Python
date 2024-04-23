@@ -1,0 +1,1 @@
+# fatiamento [inicio : final : pulo]
